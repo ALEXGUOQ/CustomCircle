@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomCircle">
+        <attr name="firstColor" format="color"/>
+        <attr name="secondColor" format="color"/>
+        <attr name="thirdColor" format="color"/>
+        <attr name="firstAngle" format="integer"/>
+        <attr name="secondAngle" format="integer"/>
+        <attr name="thirdAngle" format="integer"/>
+    </declare-styleable>
+</resources>
